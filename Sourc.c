@@ -1,4 +1,4 @@
-                                                                //1-3 ЗАДАНИЯ\\
+                                                                //1-3 ЗАДАНИЯ
 #include<stdio.h>
 #include<locale.h>
 
